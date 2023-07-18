@@ -41,7 +41,7 @@ body {
 
 .hero {
     grid-area: hero;
-    height: 87vh;
+    height: 89vh;
     background: url(../images/lemons.jpg) center center no-repeat;
     background-size: cover;
     display: flex;
